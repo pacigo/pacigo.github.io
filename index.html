@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>Mi portfolio Personal</title> 
+
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <a href="#Acerca-de-mi">Acerca de mi</a>
+                    <a href="#Habilidades">Habilidades</a>
+                    <a href="#Experiencias">Experiencias</a>
+                    <a href="#Proyectos">Proyectos</a>
+                    <a href="#Contacto">Contacto</a>
+                </ul>
+            </nav>
+            <h1>María Paz Godoy</h1>
+            <h2>Desarrolladora Web</h2>
+        </header>
+
+        <main>
+            <section id="Acerca-de-mi">
+                <h2>Acerca de mí</h2>
+                <p> Como desarroladora web junior, pienso que todos los pequeños detalles 
+                    son importantes, por lo cual me encanta prestar atención a cada línea 
+                    de codigo. Además de que siento una gran pasión por la programación y 
+                    todo lo que se puede crear mediante ella. El diseño me parece algo 
+                    increíble de realizar, incluso me divierto al hacerlo, creo que es muy 
+                    importante innovar y es algo en lo que me caracterizo. Me aseguro de que 
+                    mis sitios web funcionen de la manera correcta, sean totalmente accesibles 
+                    y de que tengan un diseño llamativo e atractivo a la vista de cualquier 
+                    persona. Cada día voy aprendiendo más y mejorando con diferentes técnicas y
+                    desafíos, me gusta aprender, todo lo que aporte algo a mi experiencia como
+                    desarrolladora web es importante. 
+                </p>
+            </section>
+            
+            <section id="Habilidades">
+                <h2>Habilidades</h2>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li> 
+                    <li>JavaScript</li>
+                    <li>Git</li>
+                    <li>Metodologías ágiles</li>
+                </ul>
+            </section>
+
+            <section id="Experiencias">
+                <h2>Experiencias</h2>
+                <ul>
+                    <li>
+                       <b>Empresa X</b> (2022-presente)
+                        <ul>
+                            <li>Desarrolladora web junior</li>
+                            <li>
+                                Responsable del desarrolo y mantenimiento de la página web de la 
+                                empresa
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Empresa Y</strong> (2020-2022)
+                        <ul>
+                            <LI>Diseñadora web</LI>
+                            <li>
+                                Responsable del diseño y maquetación de la página web de la empresa
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+
+            <section id="Proyectos">
+                <h2>Proyectos</h2>
+                <ul>
+                    <li>
+                        <a href="https://wordleespanol.org/" target="_blank">Clon de Wordle</a>
+                        <p>Descripción del proyecto 1</p>
+                    </li>
+                    <li>
+                        <a href="https://wordleespanol.org/" target="_blank">Proyecto 2</a>
+                        <p>Descripción del proyecto 2</p>
+                    </li>
+                </ul>
+            </section>
+
+            <section id="Contacto">
+                <h2>Contacto</h2>
+                <ul>
+                    <li>Email: ma.paz.godoy.a@gmail.com</li>
+                    <li>Teléfono: 0985115440</li>
+                    <li>Redes Sociales:
+                        <ul>
+                            <li>
+                                <a href="https://www.instagram.com/paci_godoy" target="_blank">instagram</a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/in/mar%C3%ADa-paz-godoy-ar%C3%A9valos-339959303/" target="_blank">LinkedIn</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+        </main>
+
+        <footer>
+            <p>Copyright &copy; 2024</p>
+        </footer>
+    </body>
+</html>
